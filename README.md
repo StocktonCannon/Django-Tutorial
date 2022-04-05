@@ -2,7 +2,7 @@
 Very simple Web App that allowed me to better understand and utilze Django.  This projects mocks a "project page" that a prospective web developer would want.  It dynamically 
 generates a web page with projects stored in a database.  Each project can be click on which redirects to a new page with more details.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=yASAKx-YY5U)
 
 # Web Pages
 
